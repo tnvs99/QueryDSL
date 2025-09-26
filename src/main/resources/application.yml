@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: JWT_Study
+
+jwt:
+  secret: ${JWT_SECRET:C/H37ZqJXCwsg74rXtaQ+UVFPHPrVszP1GlOQi4b1e8=}
+  access: 18800000
+  refresh: 604800000
+
