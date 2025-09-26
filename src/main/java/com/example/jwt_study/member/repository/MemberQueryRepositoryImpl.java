@@ -24,6 +24,5 @@ public class MemberQueryRepositoryImpl implements MemberQueryRepository {
                         .fetchOne()
         );
     }
-    // 바꿈
-    // younghoon 25.09.26 ~~~ 수정
+
 }
